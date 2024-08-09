@@ -79,7 +79,7 @@ Create a `.env` file by copying the `.env.example` file. This file is necessary 
 
 To run the Speed Estimator on a specific video:
   ```bash
-    python3 main.py ./videos/sample_video.mp4
+    python3 main.py ./sample_video.mp4
   ```
 An example can be downloaded at [example.mp4](https://drive.google.com/file/d/1q5DmC_oy8UEB_vuZH2aX4GOLp29wHAE-/view?usp=sharing)
 
